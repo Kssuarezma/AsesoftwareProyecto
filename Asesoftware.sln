@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34902.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Asesoftware", "Asesoftware.vbproj", "{B53905CC-BF68-45EF-B817-89604DD6E36C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AsesoftwareAplicacion", "..\AsesoftwareAplicacion\AsesoftwareAplicacion.vbproj", "{D5FE885C-16F9-4876-A851-9A09BB8F577C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B53905CC-BF68-45EF-B817-89604DD6E36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B53905CC-BF68-45EF-B817-89604DD6E36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B53905CC-BF68-45EF-B817-89604DD6E36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B53905CC-BF68-45EF-B817-89604DD6E36C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5FE885C-16F9-4876-A851-9A09BB8F577C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FE885C-16F9-4876-A851-9A09BB8F577C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FE885C-16F9-4876-A851-9A09BB8F577C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FE885C-16F9-4876-A851-9A09BB8F577C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37606455-8AA2-4718-A385-FA1B58C02C68}
+	EndGlobalSection
+EndGlobal
